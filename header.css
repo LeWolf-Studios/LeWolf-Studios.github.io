@@ -7,13 +7,12 @@ html {
 }
 
 .headerlogo {
-  width: 49vw;
+  width: 100vw;
   align: left;
   float: top;
 }
 
 .headerbutton {
-  width: 49vw;
   align: right;
   float: top;
 }
