@@ -11,16 +11,16 @@ button {
 }
 
 button:hover {
-  border: 2px solid #505050;
-  background-color: #b0b0b0;
+  border: 2px solid #b0b0b0;
+  background-color: #434343;
 }
 
 button:active {
-  border: 2px solid #494949;
-  background-color: #a6a6a6;
+  border: 2px solid #a6a6a6;
+  background-color: #404040;
 }
 
 button:hover:active {
-  border: 2px solid #484848;
-  background-color: #a5a5a5;
+  border: 2px solid #a5a5a5;
+  background-color: #383838;
 }
