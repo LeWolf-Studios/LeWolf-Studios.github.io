@@ -1,6 +1,13 @@
 html {
   background-color: #545454;
 }
-button {
-  
+
+.headerlogo {
+  width: 49%;
+  align: left;
+}
+
+.headerbutton {
+  width: 49%;
+  align: right;
 }
