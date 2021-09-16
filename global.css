@@ -1,7 +1,7 @@
 button {
   color: white;
   background-color: #474747;
-  border: 2px solid #545454;
+  border: 2px solid #b5b5b5;
   padding: 1em 3em;
   text-align: center;
   text-decoration: none;
@@ -11,16 +11,16 @@ button {
 }
 
 button:hover {
-  border: #505050;
-  background-color: #434343;
+  border: 2px solid #505050;
+  background-color: #b0b0b0;
 }
 
 button:active {
-  border: #494949;
-  background-color: #424242;
+  border: 2px solid #494949;
+  background-color: #a6a6a6;
 }
 
 button:hover:active {
-  border: #484848;
-  background-color: #414141;
+  border: 2px solid #484848;
+  background-color: #a5a5a5;
 }
