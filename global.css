@@ -1,3 +1,7 @@
 button {
   background-color: #474747;
+  padding: 2em 2em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 }
