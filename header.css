@@ -5,3 +5,15 @@ html {
 .header {
   width: 100vw;
 }
+
+.headerlogo {
+  width: 49vw;
+  align: left;
+  float: top;
+}
+
+.headerbutton {
+  width: 49vw;
+  align: right;
+  float: top;
+}
