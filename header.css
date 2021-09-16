@@ -2,12 +2,6 @@ html {
   background-color: #545454;
 }
 
-.headerlogo {
-  width: 49%;
-  align: left;
-}
-
-.headerbutton {
-  width: 49%;
-  align: right;
+.header {
+  width: 100vw;
 }
