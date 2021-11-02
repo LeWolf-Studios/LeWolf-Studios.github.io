@@ -14,6 +14,11 @@ ul {
   vertical-align: top;
 }
 
+@font-face {
+  font-family: "Westminster";
+  src: url("./westminster.woff") format("woff")
+}
+
 button {
   font-family: "Westminster";
 }
