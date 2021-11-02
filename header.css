@@ -13,3 +13,7 @@ ul {
   overflow: hidden;
   vertical-align: top;
 }
+
+button {
+  font-family: "Westminster";
+}
