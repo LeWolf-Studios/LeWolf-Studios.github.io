@@ -10,6 +10,11 @@ button {
   cursor: pointer;
 }
 
+@font-face {
+  font-family: "Westminster";
+  src: url("./westminster.woff") format("woff")
+}
+
 button:hover {
   border: 2px solid #b0b0b0;
   background-color: #434343;
@@ -23,4 +28,16 @@ button:active {
 button:hover:active {
   border: 2px solid #a5a5a5;
   background-color: #383838;
+}
+
+p {
+  font-family: "Westminster";
+}
+
+h1 {
+  font-family: "Westminster";
+}
+
+h2 {
+  font-family: "Westminster";
 }
