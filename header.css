@@ -2,6 +2,16 @@ html {
   background-color: #545454;
 }
 
+.logo {
+  margin-left: 4px;
+  margin-top: 4px
+}
+
+.buttons {
+  margin-right: 4px;
+  margin-top: 4px
+}
+
 .header {
   width: 100vw;
 }
