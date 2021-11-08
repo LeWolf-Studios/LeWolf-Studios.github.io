@@ -1,3 +1,9 @@
 html {
   background-color: #6e6e6e;
 }
+
+.header {
+  position: sticky;
+  position: -webkit-sticky;
+  width: 100vw;
+}
