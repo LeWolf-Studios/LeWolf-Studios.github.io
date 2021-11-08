@@ -2,6 +2,10 @@ html {
   background-color: #545454;
 }
 
+.header {
+  position: fixed;
+}
+
 .logo {
   margin-left: 7px;
   margin-top: 5px;
