@@ -3,7 +3,8 @@ html {
 }
 
 .header {
-  position: fixed;
+  position: sticky;
+  position: -webkit-sticky;
 }
 
 .logo {
