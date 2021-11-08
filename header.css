@@ -5,6 +5,7 @@ html {
 .header {
   position: sticky;
   position: -webkit-sticky;
+  width: 100vw;
 }
 
 .logo {
