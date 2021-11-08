@@ -4,12 +4,12 @@ html {
 
 .logo {
   margin-left: 7px;
-  margin-top: 7px
+  margin-top: 5px;
 }
 
 .buttons {
   margin-right: 7px;
-  margin-top: 7px
+  margin-top: 16px;
 }
 
 .header {
@@ -21,7 +21,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  vertical-align: middle;
+  vertical-align: text-top;
 }
 
 @font-face {
