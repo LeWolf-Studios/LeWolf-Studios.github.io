@@ -1,0 +1,10 @@
+html {
+  background-color: #662d04;
+}
+
+.header {
+  position: sticky;
+  position: -webkit-sticky;
+  width: 100vw;
+  top: 0px;
+}
