@@ -1,0 +1,40 @@
+html {
+  background-color: #de9126;
+}
+
+.header {
+  position: sticky;
+  position: -webkit-sticky;
+  width: 100vw;
+}
+
+.logo {
+  margin-left: 7px;
+  margin-top: 5px;
+}
+
+.buttons {
+  margin-right: 7px;
+  margin-top: 16px;
+}
+
+.header {
+  width: 100vw;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  vertical-align: text-top;
+}
+
+@font-face {
+  font-family: "Westminster";
+  src: url("./westminster.woff") format("woff")
+}
+
+button {
+  font-family: "Westminster";
+}
