@@ -13,3 +13,8 @@ h2 {
 body {
   margin: 0px
 }
+
+@font-face {
+  font-family: "Westminster";
+  src: url("./westminster.woff") format("woff")
+}
