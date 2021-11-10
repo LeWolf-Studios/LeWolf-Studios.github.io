@@ -6,4 +6,5 @@ html {
   position: sticky;
   position: -webkit-sticky;
   width: 100vw;
+  top: 0px;
 }
