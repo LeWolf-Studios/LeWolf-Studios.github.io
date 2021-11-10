@@ -1,11 +1,11 @@
 function home() {
-  window.location.href = "./index.html"
+  window.top.location.href = "./index.html"
 }
 
 function games() {
-  window.location.href = "./games.html"
+  window.top.location.href = "./games.html"
 }
 
 function about() {
-  window.location.href = "./about.html"
+  window.top.location.href = "./about.html"
 }
