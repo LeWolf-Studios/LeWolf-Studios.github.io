@@ -1,3 +1,35 @@
+button {
+  color: white;
+  background-color: #c47321;
+  border: 2px solid #b5b5b5;
+  padding: 1em 3em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+@font-face {
+  font-family: "Westminster";
+  src: url("./westminster.woff") format("woff")
+}
+
+button:hover {
+  border: 2px solid #a3a3a3;
+  background-color: #a85e14;
+}
+
+button:active {
+  border: 2px solid #a6a6a6;
+  background-color: #965a1e;
+}
+
+button:hover:active {
+  border: 2px solid #a5a5a5;
+  background-color: #824c16;
+}
+
 html {
   background-color: #de9126;
 }
